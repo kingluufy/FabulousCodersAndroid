@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="weightLabel">Your Weight</string>
+    <string name="weightBox">weightBox</string>
+    <string name="heightLabel">Your Height</string>
+    <string name="computeBMI">Compute BMI</string>
+</resources>
